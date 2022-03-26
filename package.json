@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/firew1211/js-testing.git"
+    "url": "git+https://github.com/KahsayZantana/js-testing.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/firew1211/js-testing/issues"
+    "url": "https://github.com/KahsayZantana/js-testing/issues"
   },
-  "homepage": "https://github.com/firew1211/js-testing#readme",
+  "homepage": "https://github.com/KahsayZantana/js-testing#readme",
   "devDependencies": {
     "chai": "^4.3.6",
     "chai-asserttype": "^1.0.5",
